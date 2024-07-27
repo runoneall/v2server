@@ -5,5 +5,5 @@ https://github.com/ssrsub/ssr/tree/master
 https://github.com/igeekshare/GeekshareFreeNode
 https://github.com/baip01/yhkj
 https://github.com/yxzbp/yxzbp_p
-https://github.com/freefq/free
+# https://github.com/freefq/free
 https://github.com/barry-far/V2ray-Configs
