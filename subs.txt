@@ -7,6 +7,7 @@ https://xn--94q649dc94a.com/api/v1/client/subscribe?token=7e867351f23becfac70653
 https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=1fa121960be5d6fbdf78f2207d9c5f1e
 https://us.freecat.cloud/api/v1/client/subscribe?token=82a88c4f2dc4ceb72e66fb189efcd59b
 https://flynb.site/sub/?token=F9F9zZcllpdyN5TluF9F9zZF9F9zZ11EEfx0g&tag=mixed
+https://tg.z-cloud.dynv6.net/token=Rn87qQA0uYVXBnFDocvwJ9fxnUoj1jiEExPB2W2jpCe4Grt7iqiyG123Ea5DEpkG
 
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/ssr
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub
