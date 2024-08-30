@@ -13,3 +13,7 @@
 6. `all_server.txt` 整合的订阅文件, 用于制作可用订阅
 
 因所有人的网络环境不同, 我不能考虑到所有人的环境, 所以提供 `all_server.txt` 文件, 请自行测速使用
+
+从2024.8.17开始, 不再提供 `latest.txt` 和 `latest_base64.txt` 文件
+
+订阅工具开源, 使用 `python3` 和 `requests` 完成. 将 `subs.txt` 放入项目目录并运行 `tool.py` 以启动, 产出文件在 `resource` 文件夹内
