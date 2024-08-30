@@ -16,4 +16,4 @@
 
 从2024.8.17开始, 不再提供 `latest.txt` 和 `latest_base64.txt` 文件
 
-订阅工具开源, 使用 `python3` 和 `requests` 完成. 将 `subs.txt` 放入项目目录并运行 `tool.py` 以启动, 产出文件在 `resource` 文件夹内
+授人以鱼不如授人以渔, 我决定将订阅工具开源, 使用 `python3` 和 `requests` 完成. 将 `subs.txt` 放入项目目录并运行 `tool.py` 以启动, 产出文件在 `resource` 文件夹内
