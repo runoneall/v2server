@@ -22,9 +22,14 @@ def Write(name:str, content:str):
     with open(f'./resource/{name}', 'w', encoding='utf-8') as File:
         File.write(content)
 
+def ReadOne() -> str:
+    content = Read('../one.txt')
+    return content
+
 def Unite():
     unite_str = str()
     for Item in ListItem():
         content = Read(Item)
         unite_str += content+'\n\n\n'
+    unite_str += ReadOne()
     Write('unite', unite_str)
