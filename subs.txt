@@ -6,8 +6,6 @@ https://raw.githubusercontent.com/ssrsub/ssr/master/Vless
 https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
 https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
-https://raw.githubusercontent.com/yxzbp/yxzbp_p/main/yxzbp
-https://raw.githubusercontent.com/freefq/free/master/v2
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/vless.txt
 https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/trojan.txt
